@@ -63,15 +63,8 @@
     - Go to the bellow Workspace and create a Private Slack Channel and name it "yourfirstname-jenkins-cicd-pipeline-alerts"
     - Link: https://app.slack.com/client/T043JRQBB5L/C044F5PH3DE 
 
-9) Configure Promitheus
-    - Login/SSH to your Prometheus Server
-    - Clone the following repository: [here](https://github.com/awanmbandi/eagles-batch-devops-projects.git)
-    - Change directory to "eagles-batch-devops-projects"
-    - Swtitch to the "prometheus-and-grafana" git branch  
-    - Run: ./install-prometheus.sh
-    - Confirm the status shows "Active (running)"
-    - Exit
-
+9) - ***Missing Notes here; Contact Kenneth for this. Thanks***
+     
 10) Configure Grafana
     - Login/SSH to your Grafana Server
     - Clone the following repository: [here](https://github.com/awanmbandi/eagles-batch-devops-projects.git)
